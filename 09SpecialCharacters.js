@@ -1,0 +1,6 @@
+/* 
+ wildcard  = .
+ ^ beginning  = ^
+ $ Ending = $
+ / Escape = /
+*/
